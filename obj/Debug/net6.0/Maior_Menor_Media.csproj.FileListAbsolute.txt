@@ -1,0 +1,14 @@
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\bin\Debug\net6.0\Maior_Menor_Media.exe
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\bin\Debug\net6.0\Maior_Menor_Media.deps.json
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\bin\Debug\net6.0\Maior_Menor_Media.runtimeconfig.json
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\bin\Debug\net6.0\Maior_Menor_Media.dll
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\bin\Debug\net6.0\Maior_Menor_Media.pdb
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\obj\Debug\net6.0\Maior_Menor_Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\obj\Debug\net6.0\Maior_Menor_Media.AssemblyInfoInputs.cache
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\obj\Debug\net6.0\Maior_Menor_Media.AssemblyInfo.cs
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\obj\Debug\net6.0\Maior_Menor_Media.csproj.CoreCompileInputs.cache
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\obj\Debug\net6.0\Maior_Menor_Media.dll
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\obj\Debug\net6.0\refint\Maior_Menor_Media.dll
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\obj\Debug\net6.0\Maior_Menor_Media.pdb
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\obj\Debug\net6.0\Maior_Menor_Media.genruntimeconfig.cache
+C:\Users\joanasilva\source\repos\Maior_Menor_Media\Maior_Menor_Media\obj\Debug\net6.0\ref\Maior_Menor_Media.dll
